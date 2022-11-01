@@ -94,3 +94,4 @@ sw.*
 *.swp
 
 version
+yarn.lock
